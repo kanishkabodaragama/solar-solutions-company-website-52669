@@ -111,7 +111,7 @@ function Hero() {
       <p className="hero-desc">
         Solaris Solutions delivers modern solar installations customized for your home or business.
       </p>
-      <a href="#contact" className="btn-primary">Request Free Quote</a>
+      <a href="#contact" className="btn-primary" style={{ fontFamily: 'Inter, Segoe UI, Arial, sans-serif' }}>Request Free Quote!</a>
     </section>
   );
 }
